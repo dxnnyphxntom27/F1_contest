@@ -1,1 +1,12 @@
-[{"Driver name": "VER", "Position": "1"}, {"Driver name": "LEC", "Position": "2"}, {"Driver name": "PIA", "Position": "3"}, {"Driver name": "RUS", "Position": "4"}, {"Driver name": "GAS", "Position": "5"}, {"Driver name": "SAI", "Position": "6"}, {"Driver name": "ALO", "Position": "7"}, {"Driver name": "ZHO", "Position": "8"}, {"Driver name": "MAG", "Position": "9"}, {"Driver name": "NOR", "Position": "10"}]
+[
+    {"Driver name": "NOR", "Position": "1"}, 
+    {"Driver name": "LEC", "Position": "2"}, 
+    {"Driver name": "PIA", "Position": "3"}, 
+    {"Driver name": "VER", "Position": "4"}, 
+    {"Driver name": "HAM", "Position": "5"}, 
+    {"Driver name": "HAD", "Position": "6"}, 
+    {"Driver name": "OCO", "Position": "7"}, 
+    {"Driver name": "LAW", "Position": "8"}, 
+    {"Driver name": "ALB", "Position": "9"}, 
+    {"Driver name": "SAI", "Position": "10"}
+]
